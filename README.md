@@ -1,18 +1,23 @@
-#Seasons of Code (SoC): Reinforcement Learning Progress
-This repository documents my progress for the SoC Reinforcement Learning project, covering the foundational curriculum from Week 1 to Week 4.
- Project Roadmap & Progress
-[x] Week 1: Python Primer & Scientific Computing
-Mastered core Python, NumPy for numerical operations, Pandas for data manipulation, and Matplotlib for visualization.
-Completed exercise notebooks for all four modules.
-[x] Week 2: Mathematical Foundations for RL
-Explored Probability, Linear Algebra, and Markov Processes.
-Successfully built and simulated the Multi-Armed Bandit and Markov Chain models.
-Verified stationary distributions and performed 1D/2D random walks.
-[x] Week 3: Reinforcement Learning Fundamentals
-Formulated sequential decision problems as Markov Decision Processes (MDPs).
-Implemented a custom 5×5 Grid World environment from scratch.
-Analyzed return calculations with discount factors (γ) and explored policies on FrozenLake-v1.
-[x] Week 4: Dynamic Programming
-Implemented Policy Evaluation, Policy Iteration, and Value Iteration algorithms.
-Visualized value functions as heatmaps and observed policy convergence.
-Solved the non-slippery FrozenLake environment to 100% win rate using Dynamic Programming.
+# SoC-RL-MidTerm
+Progress report for the Seasons of Code Reinforcement Learning project.
+
+## Weekly Progress (Weeks 1-4)
+
+### Week 1: Python Primer & Scientific Computing
+- Mastered environment setup using Jupyter/Colab.
+- Completed exercises on NumPy (arrays/matrices), Pandas (data manipulation), and Matplotlib (visualizations).
+
+### Week 2: Mathematical Foundations for RL
+- Studied Probability (expectation/variance) and Linear Algebra.
+- Implemented Multi-Armed Bandit simulations and Markov Chain transition matrices.
+- Verified stationary distributions and random walk behavior.
+
+### Week 3: Reinforcement Learning Fundamentals
+- Formulated MDPs (States, Actions, Rewards, Transitions).
+- Built a 5x5 Grid World environment from scratch.
+- Analyzed discounted returns ($\gamma$) and tested random policies on FrozenLake-v1.
+
+### Week 4: Dynamic Programming
+- Implemented Policy Evaluation, Policy Iteration, and Value Iteration.
+- Visualized value function heatmaps for Grid World.
+- Achieved 100% win rate on non-slippery FrozenLake using Value Iteration.
