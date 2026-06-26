@@ -4,7 +4,7 @@ Progress report for the Seasons of Code Reinforcement Learning project.
 ## Weekly Progress (Weeks 1-4)
 
 ### Week 1: Python Primer & Scientific Computing
-- Mastered environment setup using Jupyter/Colab.
+- Mastered environment setup using Colab.
 - Completed exercises on NumPy (arrays/matrices), Pandas (data manipulation), and Matplotlib (visualizations).
 
 ### Week 2: Mathematical Foundations for RL
